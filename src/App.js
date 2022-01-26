@@ -8,8 +8,8 @@ import FilmList from "./Component/FilmList";
 function App() {
   return (
     <div className="App">
-       <Header />,
-       <Liste_test />,
+       <Header />
+       <Liste_test />
        <FilmList />
     </div>
         
